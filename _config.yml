@@ -1,0 +1,14 @@
+layout_spectrum: 0.44008680316619575
+typography_spectrum: 0.7337190525140613
+color:
+  brandStrength: 0.07233394542708993
+  lightness: 0.25155279017053545
+  saturation: 0.3066236993763596
+  rhythmicContrast: 0.249435780569911
+  brandColors:
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
+name: 'web:matiQ'
