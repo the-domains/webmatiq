@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[web:matiQ]]></title>
         <description><![CDATA[web:matiQ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/webmatiq/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 15 May 2016 11:55:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 15 May 2016 11:55:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/webmatiq/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Design Systems]]></title>
+            <description><![CDATA[<article><h1>Design Systems</h1><p>The most important part of responsive web design is that, no matter what the viewport width, the content is accessible in an optimum display. The best responsive designs are those that allow you to go from one optimised display to another, but with the feeling that these experiences are part of a greater product whole.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f326368d99ba759f2b8ae604cb7d94a70843109f.jpg"></article>]]></description>
+            <link>https://24ways.org/2012/design-systems/</link>
+            <guid isPermaLink="false">01a2dfff-b596-4515-b64a-320fe61b5c61</guid>
+            <pubDate>Sun, 15 May 2016 11:55:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[a16z Podcast: A Copernican Update ... In Tech, the Smartphone is the Center by a16z]]></title>
             <description><![CDATA[<article><h1>a16z Podcast: A Copernican Update ... In Tech, the Smartphone is the Center by a16z</h1><p>Given the endless time we all spend with our noses in our phones, it may not be too surprising to hear that the smartphone has taken over the tech world. But the smartphone's dominance is so complete, says a16z's Benedict Evans, that it's useful to think of it as the sun, the object around which everything else in the (technology) planetary system revolves.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd6eae4e32f8fe01928609f57042de51c8883c5f.jpg"></article>]]></description>
