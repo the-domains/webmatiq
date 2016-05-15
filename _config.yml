@@ -1,14 +1,26 @@
-layout_spectrum: 0.44008680316619575
-typography_spectrum: 0.7337190525140613
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.07233394542708993
-  lightness: 0.25155279017053545
-  saturation: 0.3066236993763596
-  rhythmicContrast: 0.249435780569911
+  saturation: 0.6510639
+  brandStrength: 0.5085106
+  lightness: 0.6617022
   brandColors:
     - '#2B3A42'
     - '#3F5765'
     - '#BDD4DE'
     - '#EFEFEF'
     - '#FF530D'
+  rhythmicContrast: 0
+typography_spectrum: 0.8914894
+layout_spectrum: 0.7531915
 name: 'atom:matiQ'
